@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vedutla123@hotmail.com
+	name = Srikant Vedutla
